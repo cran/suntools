@@ -1,6 +1,10 @@
-# suntools 1.0.0
+# suntools 1.1.0
 
-Minor bugfix to maintain compatibility with CRAN Debian system
+Corrects the output date (given when `POSIXct.out = TRUE`) on days that shift between daylight savings time and standard time. On these days only the output date was one hour off (#19).
+
+# suntools 1.0.1
+
+Minor change to unit test to maintain compatibility with CRAN Debian system
 
 * changed timezone EET to Europe/Helsinki in tests
 

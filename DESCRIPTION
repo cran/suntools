@@ -1,6 +1,6 @@
 Package: suntools
-Version: 1.0.1
-Date: 2024-11-20
+Version: 1.1.0
+Date: 2025-11-05
 Title: Calculate Sun Position, Sunrise, Sunset, Solar Noon and Twilight
 Authors@R: c(
 	person("Roger", "Bivand", role = "aut", email = "Roger.Bivand@nhh.no", comment=c(ORCID="0000-0003-2392-6140")),
@@ -20,13 +20,16 @@ RoxygenNote: 7.3.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-11-20 19:53:02 UTC; amd427
-Author: Roger Bivand [aut] (<https://orcid.org/0000-0003-2392-6140>),
-  Adriaan M. Dokter [ctb, cre] (<https://orcid.org/0000-0001-6573-066X>),
-  Pieter Huybrechts [ctb] (<https://orcid.org/0000-0002-6658-6062>),
+Packaged: 2025-11-06 19:10:55 UTC; amd427
+Author: Roger Bivand [aut] (ORCID: <https://orcid.org/0000-0003-2392-6140>),
+  Adriaan M. Dokter [ctb, cre] (ORCID:
+    <https://orcid.org/0000-0001-6573-066X>),
+  Pieter Huybrechts [ctb] (ORCID:
+    <https://orcid.org/0000-0002-6658-6062>),
   Sebastian Luque [aut],
   Greg Pelletier [ctb],
-  Alexander Tedeschi [ctb] (<https://orcid.org/0000-0003-0772-6931>)
+  Alexander Tedeschi [ctb] (ORCID:
+    <https://orcid.org/0000-0003-0772-6931>)
 Maintainer: Adriaan M. Dokter <amd427@cornell.edu>
 Repository: CRAN
-Date/Publication: 2024-11-20 20:20:02 UTC
+Date/Publication: 2025-11-07 06:10:02 UTC
